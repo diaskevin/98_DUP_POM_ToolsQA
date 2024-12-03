@@ -1,5 +1,8 @@
 # 04_POM_ToolsQA
 
+Use this project to scratch built a PageObjectModel of CH02 ScratchPad GoogleUK...
+
+
 Where to create a POM object and how are you going to use it
 			
 			POM REPOSIRORY Class
